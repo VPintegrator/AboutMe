@@ -36,9 +36,17 @@ h1, h2 {
 .section-title {
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
+    margin-top: 40px;
 }
 footer {
     background: #f0f0f0;
     text-align: center;
     font-size: 0.9em;
+    padding: 10px;
+}
+blockquote {
+    font-style: italic;
+    margin: 1em 0;
+    padding-left: 20px;
+    border-left: 4px solid #ccc;
 }
